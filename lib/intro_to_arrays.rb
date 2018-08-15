@@ -11,5 +11,7 @@ def first_element(array)
   array.first
 end
 
-def third_element
-end 
+def third_element(array)
+  array.index(element)
+
+end
