@@ -12,6 +12,6 @@ def first_element(array)
 end
 
 def third_element(array)
-  element = array.index
+array[3]
 
 end
